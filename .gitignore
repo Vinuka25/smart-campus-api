@@ -1,0 +1,14 @@
+# Maven
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDEs (NetBeans, IntelliJ, Eclipse)
+nbproject/private/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
